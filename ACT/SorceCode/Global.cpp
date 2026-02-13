@@ -1,6 +1,9 @@
 #include "Global.h"
 
 int a;
+
+const int ZERO = 0;
+
 double GetRadian(VECTOR2_f Vect)
 {
 	return sqrt(Vect.x * Vect.x + Vect.y * Vect.y);
