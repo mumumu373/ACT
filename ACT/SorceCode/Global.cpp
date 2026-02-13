@@ -4,6 +4,7 @@ int xyz;
 int jjj;
 const int ZERO = 0;
 
+int b = 1115;
 int b = 20;
 double GetRadian(VECTOR2_f Vect)
 {
