@@ -8,6 +8,8 @@ class CPlayer
 	:public CCharacter
 {
 public:
+	int OWATAPOINT;
+
 	//ƒAƒNƒVƒ‡ƒ“ó‘Ô
 	enum enActionState
 	{
