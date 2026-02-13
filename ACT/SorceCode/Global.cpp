@@ -7,6 +7,7 @@ const int ZERO = 0;
 
 int b = 1115;
 int b = 20;
+int plyer = 0;
 double GetRadian(VECTOR2_f Vect)
 {
 	return sqrt(Vect.x * Vect.x + Vect.y * Vect.y);
