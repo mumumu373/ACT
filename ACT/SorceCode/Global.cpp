@@ -1,5 +1,6 @@
 #include "Global.h"
 
+int appai = 666;
 int xyz;
 int jjj;
 const int ZERO = 0;
