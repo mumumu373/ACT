@@ -1,7 +1,7 @@
 #include "Global.h"
 
-int a;
-
+int xyz;
+int jjj;
 const int ZERO = 0;
 
 int b = 49606;
