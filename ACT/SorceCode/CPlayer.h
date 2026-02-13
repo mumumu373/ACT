@@ -47,4 +47,6 @@ private:
 	double m_JumpAcc;		//ジャンプ力を加算させる
 	bool m_JumpRemove;		//ジャンプボタンを離したぞ！
 	int m_JumpRemoveCo;		//ジャンプボタンを押した時間を図る
+
+	int m_Gian;						//アイアムジーアイアン
 };

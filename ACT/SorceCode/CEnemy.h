@@ -18,5 +18,5 @@ public:
 private:
 	void Animation() override;
 private:
-
+	int m_Gian;				//アイアムジーアイアン
 };
